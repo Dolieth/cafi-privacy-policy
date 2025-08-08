@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Informativa sulla Privacy per l'App Cafi">
+  <title>Informativa sulla Privacy – App Cafi</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      max-width: 800px; 
+      margin: 0 auto; 
+      padding: 20px; 
+      line-height: 1.6;
+      color: #333;
+    }
+    h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+    h2 { color: #34495e; margin-top: 30px; border-left: 4px solid #3498db; padding-left: 15px; }
+    .nav-links { 
+      background: #f8f9fa; 
+      padding: 15px; 
+      border-radius: 8px; 
+      margin-bottom: 30px; 
+      text-align: center;
+    }
+    .nav-links a { 
+      margin: 0 10px; 
+      color: #3498db; 
+      text-decoration: none; 
+      font-weight: bold;
+    }
+    .nav-links a:hover { text-decoration: underline; }
+    .contact-info { 
+      background: #e8f4fd; 
+      padding: 15px; 
+      border-radius: 8px; 
+      margin: 20px 0;
+    }
+    ul { padding-left: 20px; }
+    li { margin: 8px 0; }
+    .update-date { 
+      font-style: italic; 
+      color: #7f8c8d; 
+      text-align: center; 
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="nav-links">
+    <a href="index.html">🇪�� Español</a> | 
+    <a href="en.html">🇺�� English</a> | 
+    <a href="it.html">��🇹 Italiano</a> | 
+    <a href="fr.html">��🇷 Français</a> | 
+    <a href="de.html">��🇪 Deutsch</a>
+  </div>
+
+  <h1>Informativa sulla Privacy</h1>
+
+  <div class="contact-info">
+    <p><strong>Responsabile:</strong> Dolly Ernst</p>
+    <p><strong>Email di contatto:</strong> dollynarnjo@gmail.com</p>
+    <p><strong>Ultimo aggiornamento:</strong> 8 agosto 2025</p>
+  </div>
+
+  <h2>1. Dati che raccogliamo</h2>
+  <p>L'app Cafi permette agli utenti di creare valutazioni sui caffè, incluse:</p>
+  <ul>
+    <li>Nome del caffè e dati di origine (luogo di piantagione, marca, altitudine, varietà di chicco)</li>
+    <li>Commenti e valutazioni personali</li>
+    <li>Foto opzionali dei caffè</li>
+    <li>Preferenze sensoriali (aroma, sapore, corpo, acidità, amarezza, intensità)</li>
+    <li>Preferenze di consumo (con latte, espresso, cappuccino, latte macchiato, cold brew)</li>
+    <li>Valutazioni personali (mi è piaciuto, mi ha dato energia, lo comprerei di nuovo, buona crema)</li>
+  </ul>
+
+  <h2>2. Finalità del trattamento</h2>
+  <p>I dati raccolti vengono utilizzati per:</p>
+  <ul>
+    <li>Mostrare, gestire e organizzare le valutazioni dei caffè dell'utente</li>
+    <li>Permettere la modifica e l'aggiornamento delle valutazioni esistenti</li>
+    <li>Facilitare la ricerca e il filtraggio dei caffè per nome</li>
+    <li>Condividere valutazioni con altri utenti quando l'utente lo decide</li>
+  </ul>
+
+  <h2>3. Base legale</h2>
+  <p>Il trattamento si basa su:</p>
+  <ul>
+    <li>Il consenso dell'utente nell'accettare l'uso dell'app</li>
+    <li>L'interesse legittimo del funzionamento dell'applicazione</li>
+    <li>La necessità di fornire i servizi richiesti dall'utente</li>
+  </ul>
+
+  <h2>4. Conservazione e archiviazione</h2>
+  <p>I dati vengono archiviati localmente sul dispositivo dell'utente utilizzando Hive, un database locale. I dati rimangono sul dispositivo fino a quando:</p>
+  <ul>
+    <li>L'utente li elimina manualmente</li>
+    <li>L'utente disinstalla l'applicazione</li>
+    <li>L'utente attiva funzioni di sincronizzazione (se disponibili)</li>
+  </ul>
+
+  <h2>5. Condivisione dei dati</h2>
+  <p>L'app Cafi rispetta la tua privacy:</p>
+  <ul>
+    <li>I dati vengono archiviati localmente sul tuo dispositivo</li>
+    <li>Le informazioni personali non vengono condivise automaticamente</li>
+    <li>Se attivi funzioni di condivisione, vengono condivise solo le valutazioni che scegli</li>
+    <li>Non vengono condivise informazioni personali come nome, email o altri dati identificativi</li>
+  </ul>
+
+  <h2>6. Diritti dell'utente</h2>
+  <p>Come utente hai il diritto di:</p>
+  <ul>
+    <li>Accedere a tutti i tuoi dati archiviati nell'app</li>
+    <li>Rettificare o modificare le tue valutazioni in qualsiasi momento</li>
+    <li>Eliminare valutazioni individuali o tutti i tuoi dati</li>
+    <li>Esportare i tuoi dati (se la funzionalità è disponibile)</li>
+  </ul>
+  <p>Puoi esercitare questi diritti direttamente dall'app o contattando <strong>dollynarnjo@gmail.com</strong>. Puoi anche eliminare tutti i tuoi dati disinstallando l'app.</p>
+
+  <h2>7. Servizi di terze parti</h2>
+  <p>Questa app utilizza:</p>
+  <ul>
+    <li><strong>Google Play Store:</strong> Per la distribuzione dell'applicazione. Google può raccogliere dati di utilizzo secondo la propria politica sulla privacy.</li>
+    <li><strong>Hive:</strong> Database locale per l'archiviazione dei dati sul dispositivo.</li>
+  </ul>
+
+  <h2>8. Sicurezza</h2>
+  <p>Implementiamo misure di sicurezza per proteggere i tuoi dati:</p>
+  <ul>
+    <li>Archiviazione locale crittografata</li>
+    <li>Nessuna trasmissione di dati a server esterni</li>
+    <li>Controllo completo dell'utente sui propri dati</li>
+  </ul>
+
+  <h2>9. Modifiche alla policy</h2>
+  <p>Ci riserviamo il diritto di modificare questa informativa sulla privacy. Qualsiasi modifica sarà:</p>
+  <ul>
+    <li>Pubblicata a questo stesso indirizzo web</li>
+    <li>Comunicata attraverso aggiornamenti dell'app</li>
+    <li>Indicata con una nuova data di "Ultimo aggiornamento"</li>
+  </ul>
+
+  <h2>10. Contatto</h2>
+  <p>Se hai domande su questa informativa sulla privacy o sul trattamento dei tuoi dati, puoi contattarci a:</p>
+  <p><strong>Email:</strong> dollynarnjo@gmail.com</p>
+
+  <div class="update-date">
+    <p>Ultimo aggiornamento: 8 agosto 2025</p>
+  </div>
+</body>
+</html>
